@@ -20,5 +20,10 @@ RadarScope is a mobile weather application that provides users with real-time we
 
  ##Individual Contribution
 - Anil Shrestha
-- Branches: main,dev,feature/location
-- 
+-      Branches: main,dev,feature/location
+- Anuska Subedi
+-      Branches: feature/notifications
+-  Sneha Acharya
+-      Branches: feature/radar-display
+-  Keon Johnson
+-      Branches: feature/weather-api
